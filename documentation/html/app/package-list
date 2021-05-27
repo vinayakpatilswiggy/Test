@@ -1,0 +1,21 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.kdoctest.main////PointingToDeclaration/app/com.example.kdoctest.main/index.html
+$dokka.location:com.example.kdoctest.main/DummyClass///PointingToDeclaration/app/com.example.kdoctest.main/-dummy-class/index.html
+$dokka.location:com.example.kdoctest.main/DummyClass/DummyClass/#/PointingToDeclaration/app/com.example.kdoctest.main/-dummy-class/-dummy-class.html
+$dokka.location:com.example.kdoctest.main/DummyClass/dummyFunction/#/PointingToDeclaration/app/com.example.kdoctest.main/-dummy-class/dummy-function.html
+$dokka.location:com.example.kdoctest.main/MainActivity///PointingToDeclaration/app/com.example.kdoctest.main/-main-activity/index.html
+$dokka.location:com.example.kdoctest.main/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.kdoctest.main/-main-activity/-main-activity.html
+$dokka.location:com.example.kdoctest.main/MainActivity/dummyVariable/#/PointingToDeclaration/app/com.example.kdoctest.main/-main-activity/dummy-variable.html
+$dokka.location:com.example.kdoctest.main/MainActivity/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.kdoctest.main/-main-activity/on-create.html
+$dokka.location:com.example.kdoctest.main/MainActivity/testMethode/#/PointingToDeclaration/app/com.example.kdoctest.main/-main-activity/test-methode.html
+$dokka.location:com.example.kdoctest.sub////PointingToDeclaration/app/com.example.kdoctest.sub/index.html
+$dokka.location:com.example.kdoctest.sub/SubCodeA///PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-a/index.html
+$dokka.location:com.example.kdoctest.sub/SubCodeA/SubCodeA/#/PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-a/-sub-code-a.html
+$dokka.location:com.example.kdoctest.sub/SubCodeA/methodA/#/PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-a/method-a.html
+$dokka.location:com.example.kdoctest.sub/SubCodeB///PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-b/index.html
+$dokka.location:com.example.kdoctest.sub/SubCodeB/SubCodeB/#/PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-b/-sub-code-b.html
+$dokka.location:com.example.kdoctest.sub/SubCodeB/methodB/#/PointingToDeclaration/app/com.example.kdoctest.sub/-sub-code-b/method-b.html
+com.example.kdoctest.main
+com.example.kdoctest.sub
+

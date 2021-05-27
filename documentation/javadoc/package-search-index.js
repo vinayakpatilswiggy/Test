@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"com.example.kdoctest.main","url":"com/example/kdoctest/main/package-summary.html"}, {"l":"com.example.kdoctest.sub","url":"com/example/kdoctest/sub/package-summary.html"}, {"l":"All packages","url":"index.html"}]
